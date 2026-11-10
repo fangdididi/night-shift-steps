@@ -1,0 +1,7 @@
+{
+  "terms": {
+    "NAS": ["server", "file box", "storage box"],
+    "tray": ["caddy", "sled", "bracket"],
+    "power off": ["shut off", "turn off", "kill"]
+  }
+}
